@@ -4,7 +4,7 @@
 
 Diplomityöni LaTeX pohja. PDF version työstä löydät [Aaltodoc](https://aaltodoc.aalto.fi/) järjestelmästä tai  varmuuskopioituna [täältä](sci_2019_galkin_ossi.pdf) GitHubista.
 
-## Tiivistelmä
+## Tiivistelmä työstä ”Järjestelmäintegraation arkkitehtuurin palauttaminen”
 
 Suurilla ja keskisuurilla organisaatioilla on useita liiketoimintaohjelmistoja, kuten asiakkuudenhallinta- ja toiminnanohjausohjelmistoja. Yritysohjelmistot tarvitsevat tietoja toisiltaan, mutta ne harvoin kommunikoivat keskenään käyttövalmiina. Järjestelmäintegraatioalustaa käytetään ohjelmistojen yhdistämiseksi. Liiketoimintaohjelmistojen välisen viestinnän automatisointia kutsutaan orkestroinniksi. Koska järjestelmäintegraatiota käytetään viestinnän toteuttamiseen liiketoimintaohjelmistojen välillä, sitä voidaan käyttää orkestrointikerroksen arkkitehtuurin kartoittamiseen. Yritysten kehittyessä myös niiden käyttämät ohjelmat kehittyvät. Usein niitä ei joko dokumentoida ollenkaan tai dokumentaatio jää päivittämättä. Kaiken kaikkiaan yleinen ongelma on se, että yritys menettää tiedon siitä, mitä ohjelmistoja sillä on ja miten niitä käytetään.
 
