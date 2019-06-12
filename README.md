@@ -5,7 +5,7 @@
 
 My master's thesis in LaTeX. PDF version can be founded in [Aaltodoc](https://aaltodoc.aalto.fi/) archive. It is also backed up [here](sci_2019_galkin_ossi.pdf) on GitHub.
 
-## Abstract
+## Abstract of Enterprise Application Integration Architecture Recovery
 
 Large and medium-sized enterprise has multiple business applications, such as customer relations management (CRM) and enterprise resource planning (ERP) software. Business applications need data from each other, but they rarely communicate with each other out of the box. An enterprise application integration (EAI) platform is used to tie them together. Automating communication between business applications is called orchestration. As EAI is used to implement communication between business applications, in theory, it could be used to map the architecture of the orchestration layer. As companies evolve, so does the software they use. Either documentation is never done, or it is not updated. Overall, the frequent problem is that the company loses track of what software systems it has and how they are used. 
 
