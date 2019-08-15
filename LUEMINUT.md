@@ -2,7 +2,7 @@
 
 # Diplomityö
 
-Diplomityöni LaTeX pohja. PDF version työstä löydät [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201906234068) järjestelmästä tai  varmuuskopioituna [täältä](sci_2019_galkin_ossi.pdf) GitHubista.
+Diplomityöni LaTeX pohja. Työ on kirjoitettu englanniksi. PDF version työstä löydät [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201906234068) järjestelmästä tai  varmuuskopioituna [täältä](sci_2019_galkin_ossi.pdf) GitHubista.
 
 ## Tiivistelmä työstä ”Järjestelmäintegraation arkkitehtuurin palauttaminen”
 
