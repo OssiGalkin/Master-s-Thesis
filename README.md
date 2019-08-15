@@ -1,9 +1,9 @@
 
-[In Finnish / suomeksi](https://github.com/OssiGalkin/Master-s-Thesis/blob/master/LUEMINUT.md)
+[In Finnish / suomeksi](LUEMINUT.md)
 
 # Master's Thesis
 
-My master's thesis in LaTeX. PDF version can be founded in [Aaltodoc](https://aaltodoc.aalto.fi/) archive. It is also backed up [here](sci_2019_galkin_ossi.pdf) on GitHub.
+My master's thesis in LaTeX. PDF version can be founded in [Aaltodoc](http://urn.fi/URN:NBN:fi:aalto-201906234068) archive. It is also backed up [here](sci_2019_galkin_ossi.pdf) on GitHub.
 
 ## Abstract of “Enterprise Application Integration Architecture Recovery” 
 
